@@ -9,7 +9,6 @@ const api = axios.create({
   },
 });
 
-// Get current user ID (you'll need to implement user auth)
 const getUserId = () => {
   // For now, return a demo user ID
   // In a real app, get this from your auth context/store

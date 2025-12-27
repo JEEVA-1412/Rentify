@@ -7,7 +7,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 // Screens
 import LoginScreen from '../screens/LoginScreen';
 import HomeScreen from '../screens/HomeScreen';
-import EquipmentListScreen from '../screens/EquipmentListScreen'; // Add this
+import EquipmentListScreen from '../screens/EquipmentListScreen';
 import EquipmentDetailScreen from '../screens/EquipmentDetailScreen';
 import CartScreen from '../screens/CartScreen';
 import OrdersScreen from '../screens/OrdersScreen';
